@@ -19,7 +19,7 @@ I use AI to automate documentation and script boilerplate, allowing me to focus 
 ---
 
 ### 🧰 The Toolkit
-- **OS:** Linux (XFCE Customization), Windows, Active Directory
+- **OS:** Linux (XFCE Customization)
 - **Security:** Nmap, Wireshark, Burp Suite
 - **Scripting:** Python, Bash (Automating system health checks)
   
